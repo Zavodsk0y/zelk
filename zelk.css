@@ -25,8 +25,8 @@
   /* set to '4px solid' to show */
   --embed-color: none;
   /* set to 'Inter', sans-serif !important to use Inter font*/
-  --font-primary: Monocraft !important;
-  --font-display: Monocraft !important;
+  --font-primary: 'Minecraft Rus Regular', Rus;
+  --font-display: 'Minecraft Rus Regular', Rus;
   --border-radius-1: 10px;
   --border-radius-2: 8px;
 }
